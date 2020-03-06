@@ -31,3 +31,5 @@ include/
 obj.*
 *.ipdb
 *.iobj
+/bin.X86/*.snk
+/detours-bin-86/*.snk
